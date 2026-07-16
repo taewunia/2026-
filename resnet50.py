@@ -39,7 +39,7 @@ imagenette_classes = [
     "French Horn",
     "Garbage Truck",
     "Gas Pump",
-    "Golf Ball",
+    "Golf Ball"
     "Parachute"
 ]
 
